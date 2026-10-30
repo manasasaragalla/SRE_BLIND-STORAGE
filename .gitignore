@@ -1,0 +1,12 @@
+build/
+build-clean/
+*.exe
+*.o
+*.obj
+*.dll
+*.so
+*.a
+.vscode/
+*.log
+compile-log.txt
+.env
